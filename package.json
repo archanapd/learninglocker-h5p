@@ -1,5 +1,5 @@
 {
-  "name": "xapi-h5p-interaction",
+  "name": "learninglocker-h5p",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/archanapd/xapi-h5p-interaction.git"
+    "url": "git+https://github.com/archanapd/learninglocker-h5p.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/archanapd/xapi-h5p-interaction/issues"
+    "url": "https://github.com/archanapd/learninglocker-h5p/issues"
   },
-  "homepage": "https://github.com/archanapd/xapi-h5p-interaction#readme"
+  "homepage": "https://github.com/archanapd/learninglocker-h5p#readme"
 }
